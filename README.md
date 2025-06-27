@@ -15,5 +15,11 @@ Os exercícios mostrados neste momento são:
 
 - Conversor de Moeda;
 - Calculadora de Desconto;
+- Calculadora de Média Escolar;
+- Conversor de Moeda;
+
+## Atividade Prática 03
+
+- Classificador de Idade;
 
 Em caso de dúvidas pode [Entre em contato comigo](mailto:andreodon@gmail.com). Caso não abra seu gerenciador de emails, me envie um email para andreodon@gmail.com.
