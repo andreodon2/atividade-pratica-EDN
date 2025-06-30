@@ -1,4 +1,4 @@
-# Atividade Pratica EDN
+# Atividade Prática EDN
 
 Este repositório destina-se a mostrar alguns de meus exercícios referentes as aulas da [Escola da Nuvem](https://escoladanuvem.org/).
 
