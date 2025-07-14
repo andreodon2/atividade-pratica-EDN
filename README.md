@@ -26,8 +26,10 @@ Os exercícios mostrados neste momento são:
 - Verificador de Ano Bisexto.
 
 ## Atividade Prática 07
-- Dados em CSV;
+- Criar CSV;
+- Ler CSV;
     - Documentação consultada: https://docs.python.org/pt-br/3.13/library/csv.html
-- 
+- Ler JSON
+    - Documentação consultada: https://docs.python.org/pt-br/3.13/library/json.html
 
 Em caso de dúvidas pode [Entre em contato comigo](mailto:andreodon@gmail.com). Caso não abra seu gerenciador de emails, me envie um email para andreodon@gmail.com.
