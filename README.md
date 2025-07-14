@@ -27,5 +27,7 @@ Os exercícios mostrados neste momento são:
 
 ## Atividade Prática 07
 - Dados em CSV;
+    - Documentação consultada: https://docs.python.org/pt-br/3.13/library/csv.html
+- 
 
 Em caso de dúvidas pode [Entre em contato comigo](mailto:andreodon@gmail.com). Caso não abra seu gerenciador de emails, me envie um email para andreodon@gmail.com.
