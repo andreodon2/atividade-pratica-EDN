@@ -25,6 +25,9 @@ Os exercícios mostrados neste momento são:
 - Conversor de Temperatura;
 - Verificador de Ano Bisexto.
 
+## Atividade Prática 04
+- Gerar senha aleatória;
+
 ## Atividade Prática 07
 - Criar CSV;
 - Ler CSV;
