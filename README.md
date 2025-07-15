@@ -38,6 +38,7 @@ Os exercícios mostrados neste momento são:
 
 ## Atividade Prática 06
 - Calculadora;
+- Inserção de números pares e ímpares;
 
 ## Atividade Prática 07
 - Criar CSV;
