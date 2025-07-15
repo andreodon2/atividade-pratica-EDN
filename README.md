@@ -27,6 +27,7 @@ Os exercícios mostrados neste momento são:
 
 ## Atividade Prática 04
 - Gerar senha aleatória;
+- Gerar perfil usuário (Necessário instalar as depedências do requests);
 
 ## Atividade Prática 07
 - Criar CSV;
