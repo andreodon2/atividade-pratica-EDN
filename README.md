@@ -31,6 +31,9 @@ Os exercícios mostrados neste momento são:
 - Consultar CEP (Necessário instalar as depedências do requests);
 - Consultar Moeda (Necessário instalar as depedências do requests);
 
+## Atividade Prática 05
+- Calcular Gorjeta;
+
 ## Atividade Prática 07
 - Criar CSV;
 - Ler CSV;
