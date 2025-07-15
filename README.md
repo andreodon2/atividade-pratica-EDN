@@ -36,6 +36,9 @@ Os exercícios mostrados neste momento são:
 - Calcular Idade em Dias;
 - Palíndromo;
 
+## Atividade Prática 06
+- Calculadora;
+
 ## Atividade Prática 07
 - Criar CSV;
 - Ler CSV;
