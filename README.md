@@ -34,6 +34,7 @@ Os exercícios mostrados neste momento são:
 ## Atividade Prática 05
 - Calcular Gorjeta;
 - Calcular Idade em Dias;
+- Palíndromo;
 
 ## Atividade Prática 07
 - Criar CSV;
