@@ -29,6 +29,7 @@ Os exercícios mostrados neste momento são:
 - Gerar senha aleatória;
 - Gerar perfil usuário (Necessário instalar as depedências do requests);
 - Consultar CEP (Necessário instalar as depedências do requests);
+- Consultar Moeda (Necessário instalar as depedências do requests);
 
 ## Atividade Prática 07
 - Criar CSV;
