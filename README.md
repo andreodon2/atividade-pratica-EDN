@@ -40,6 +40,7 @@ Os exercícios mostrados neste momento são:
 - Calculadora;
 - Inserção de números pares e ímpares;
 - Senha forte;
+- Notas Turma;
 
 ## Atividade Prática 07
 - Criar CSV;
